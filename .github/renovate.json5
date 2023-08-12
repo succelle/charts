@@ -24,7 +24,14 @@
     {
       "matchManagers": ["github-actions"],
       "groupName": "Github-Actions",
-      "automerge": true
+      "automerge": true,
+      "matchUpdateTypes": ["minor", "patch", "digest"]
+    },
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "Github-Actions Major",
+      "automerge": false,
+      "matchUpdateTypes": ["major"]
     },
     // Setup datasources for dep updates
     {
