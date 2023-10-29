@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/cloudnative-pg
-  tag: "v1.20.2@sha256:07121d674c1de587044746f92cc3bccb4576f2fc125f6f2f5bcaa582dad3e3ad"
+  tag: "v1.21.0@sha256:ec9e7b3e1156b62f40fff92efb5769c088eee8e97b8f7ce9ea8f270a870d6393"
   pullPolicy:
 
 workload:
