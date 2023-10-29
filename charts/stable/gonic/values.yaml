@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/gonic
   pullPolicy: IfNotPresent
-  tag: 0.15.2@sha256:0ac1bd4733320325dd722f26e066c0af10d7eff8331fc3c6b1b56059979eb389
+  tag: v0.16.0@sha256:c19ed2aadbfe300d4978dc0ca9d96998b4d66ecdccc80f05327211dfafa4a540
 # env:
 #   GONIC_MUSIC_PATH:
 #   GONIC_PODCAST_PATH:
