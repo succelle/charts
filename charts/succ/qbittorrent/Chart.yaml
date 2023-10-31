@@ -21,7 +21,7 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/succ/qbittorrent
   - https://github.com/qbittorrent/qBittorrent
 type: application
-version: 16.0.5
+version: 16.0.8
 annotations:
   truecharts.org/catagories: |
     - media
