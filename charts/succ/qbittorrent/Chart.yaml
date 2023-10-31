@@ -6,7 +6,7 @@ dependencies:
     version: 14.0.9
 deprecated: false
 description: qBittorrent is a cross-platform free and open-source BitTorrent client
-home: https://truecharts.org/charts/stable/qbittorrent
+home: https://truecharts.org/charts/succ/qbittorrent
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png
 keywords:
   - qbittorrent
@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: qbittorrent
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/qbittorrent
+  - https://github.com/truecharts/charts/tree/master/charts/succ/qbittorrent
   - https://github.com/qbittorrent/qBittorrent
 type: application
 version: 16.0.5
